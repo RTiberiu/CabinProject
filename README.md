@@ -9,9 +9,13 @@
   - [360° Cabin Tour](#360-cabin-tour)
 - [Author](#author)
 
-## Description
+## Description  
 
 ## Built with
+- **JavaScript**
+  - **Three.js** – library for 3D graphics
+  - **jQuery**
+- **HTML** and **CSS**
 
 ## Showcase  
 
